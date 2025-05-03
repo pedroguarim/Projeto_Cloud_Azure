@@ -1,6 +1,6 @@
 # Projeto_Cloud_Azure
 Alguns estudos e desenvolvimentos dentro da cloud Azure. 
-//
+
 # Primeiro projeto 
 Aprendemos a como usar a conta de estudante,
 criar e configurar um data factory e usar a solução de paineis e dashboards para tem um controle das aplicações, recursos e custos.
