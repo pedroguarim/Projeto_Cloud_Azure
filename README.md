@@ -13,4 +13,8 @@ Ao longe desse tópico começamos aprendendo sobre a calculadora de preços e co
 calculando os recursos que pretendem ser usados e todos os seus valores. 
 Tivemos um módulo focado em estudos falando sobre o E-learning, certificações, Ninja e mais. 
 
+![image](https://github.com/user-attachments/assets/333228d7-5601-4057-b1c8-2b17c4ee8223)
+
+
+
 
