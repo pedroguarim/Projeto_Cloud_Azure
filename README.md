@@ -12,7 +12,7 @@ criar e configurar um data factory e usar a solução de paineis e dashboards pa
 Ao longe desse tópico começamos aprendendo sobre a calculadora de preços e como utilizamos ela para decidir o melhor plano para o cliente,
 calculando os recursos que pretendem ser usados e todos os seus valores. 
 Tivemos um módulo focado em estudos falando sobre o E-learning, certificações, Ninja e mais. 
-
+Criamos um databricks e aprendemos a como criar linked services, datasets e pipelines.
 ![image](https://github.com/user-attachments/assets/333228d7-5601-4057-b1c8-2b17c4ee8223)
 
 
