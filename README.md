@@ -25,4 +25,11 @@ Criação de um cluster e manipulação de arquivo csv.
 
 Criação do cluster feita após isso utilizamos o prompt do notebook para leitura do csv no caminho passado e manipulação dos dados, esses que podem ser feitos a partir da IA apenas descrevendo os passos.
 
+# Quarto projeto 
+
+Criação de um DevOps e conexão com repositório
+
+![image](https://github.com/user-attachments/assets/f8163398-a072-4e4c-9978-2866c33f951b)
+
+![image](https://github.com/user-attachments/assets/c18a3def-97d9-4eaa-8282-c2feef9f0572)
 
